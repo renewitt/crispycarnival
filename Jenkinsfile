@@ -1,3 +1,3 @@
 @Library('jenkinslib')_
 
-defaultPipeline('Terry')
+defaultPipeline()

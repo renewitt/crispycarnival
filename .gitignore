@@ -2,6 +2,7 @@
 html/
 pdf/
 recipes/
+*.out
 
 # OSX
 .DS_Store
